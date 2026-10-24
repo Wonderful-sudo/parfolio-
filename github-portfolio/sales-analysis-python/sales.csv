@@ -1,0 +1,13 @@
+order_id,date,product,category,quantity,price
+1001,2025-01-05,USB Cable,Accessories,3,5.50
+1002,2025-01-12,Wireless Mouse,Peripherals,1,18.00
+1003,2025-01-20,Laptop Stand,Accessories,2,24.90
+1004,2025-02-02,Mechanical Keyboard,Peripherals,1,59.00
+1005,2025-02-09,USB Cable,Accessories,5,5.50
+1006,2025-02-14,Headphones,Audio,2,35.00
+1007,2025-02-25,Wireless Mouse,Peripherals,2,18.00
+1008,2025-03-03,Webcam,Peripherals,1,42.00
+1009,2025-03-11,Headphones,Audio,1,35.00
+1010,2025-03-18,Laptop Stand,Accessories,3,24.90
+1011,2025-03-29,Mechanical Keyboard,Peripherals,2,59.00
+1012,2025-04-04,Speaker,Audio,1,49.00
